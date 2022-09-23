@@ -1,0 +1,209 @@
+#container{
+    margin: 0 auto;
+    width: 400px;
+    height: 800px;
+    background-color: #f9f8f6;
+
+}
+
+#barra_superior{
+    width: 400px;
+    height: 5px;
+    background-color: #ffbb12;
+    margin-bottom: 10px;
+}
+
+#quadrado_titulo{
+    height: 25px;
+    width: 25px;
+    background-color: #ffbb12;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 30px;
+    margin-top: 33px;
+    opacity: 100%;
+}
+
+#inscreva-se{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 35px;
+    margin-top: -27px;
+    color: #484238;
+}
+
+#ret_titulo1{
+    height: 2px;
+    width: 20px;
+    background-color: #484238;
+    margin-top: -50px;
+    margin-bottom: 100px;
+    margin-left: 345px;
+    margin-right: 30px;
+}
+
+#ret_titulo2{
+    height: 2px;
+    width: 16px;
+    background-color: #484238;
+    margin-top: -100px;
+    margin-bottom: 120px;
+    margin-left: 349px;
+    margin-right: 30px;
+}
+
+#ret_titulo3{
+    height: 2px;
+    width: 20px;
+    background-color: #484238;
+    margin-top: -150px;
+    margin-bottom: 133px;
+    margin-left: 345px;
+    margin-right: 30px;
+}
+
+#ret_plano2{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -100px;
+    width: 360px;
+    height: 625px;
+    background-color:white;
+    border-radius: 5px;
+    padding-top: 15px;
+    box-shadow: 0px 0px 2px 2px lightgray;
+}
+
+#label_caixa_de_texto{
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+#input_nome{
+    width: 300px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: #f9f8f6;
+    border-radius: 5px;
+    border: 0;
+    box-shadow: 0px 0px 2px 2px #ffbb12;
+    outline:none;
+    margin-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+#input_caixa_de_texto{
+    width: 300px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: #f9f8f6;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 1px 1px gray;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#input_senha{
+    width: 300px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: #f9f8f6;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 1px 1px gray;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/* #ver_senha{
+    width: 18px;
+    height: 18px;
+    opacity: 50%;
+    margin-right:0;
+    margin-top: -50px;
+    margin-bottom: 38px;
+    margin-left: 300px;
+} */
+
+#input_cep{
+    width: 132px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: #f9f8f6;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 1px 1px gray;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#label_numero{
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-left: 125px;
+}
+
+#input_numero{
+    width: 132px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: #f9f8f6;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 1px 1px gray;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#cidade{
+    width: 310px;
+    height: 35px;
+    margin-left: 20px;
+    background-color: #f9f8f6;
+    border-radius: 5px;
+    border: 0;
+    outline: none;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 1px 1px gray;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#label_termos{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+
+}
+
+#chk_termos{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #f9f8f6;
+}
+
+#btn_cadastrar{
+    width: 180px;
+    height: 45px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: #ffbb12;
+    color: #764701;
+    font-size: 18px;
+    font: 20 'roboto',bold;
+    border-radius: 5px;
+    border: none;
+}
